@@ -93,7 +93,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between max-w-7xl mx-auto">
         <div className="flex items-center gap-4 md:gap-8">
           <Link to="/" className="text-red-600 text-2xl md:text-3xl font-bold">
-            CINEPLAY
+            FinesseFlix
           </Link>
           <MobileMenu />
           <div className="hidden md:flex items-center gap-6">
